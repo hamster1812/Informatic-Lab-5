@@ -221,4 +221,5 @@ Summary of actions:
 GitHub через терминал, так что ветки develop и main я отослал через функционал PyCharm.
 
 В итоге, получим вот такое дерево разработки:
+
 ![](images/git_tree.png)
