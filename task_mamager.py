@@ -1,1 +1,1 @@
-def task1():\n    pass
+\n\ntask1()
